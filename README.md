@@ -1,5 +1,5 @@
 # Calculater-kotlin
-What I Learn
+# What I Learn
 * setOnClickListe
 * layout design 
 * create new style 
